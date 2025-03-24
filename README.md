@@ -1,7 +1,9 @@
+![Pixel Art Coding](https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif)
+
 # Hey, I’m Abhishek
 I like building stuff and sharing code.  
 
-**FullStack Dev**
+**FullStack Developer**
 
 - **Focus**: Working with **React** and **TypeScript** to create solid apps.  
 - **Current Project**: [Startup Bihar Portal](https://startupbihar.in/)
