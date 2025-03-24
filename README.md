@@ -1,4 +1,4 @@
-![Pixel Art Coding]([https://media.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif](https://giphy.com/gifs/pixel-art-jeff-ckr4W2ppxPBeIF8dx4)
+![Pixel City Coding](https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif)
 
 # Hey, I’m Abhishek
 I like building stuff and sharing code.  
