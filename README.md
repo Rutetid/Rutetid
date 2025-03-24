@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I’m Abhishek
+I like building stuff and sharing code.  
 
-<!--
-**Rutetid/Rutetid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FullStack Dev**
 
-Here are some ideas to get you started:
+- **Focus**: Working with **React** and **TypeScript** to create solid apps.  
+- **Current Project**: [Startup Bihar Portal](https://startupbihar.in/)
+- **Contact**: [abhishekanand1164@gmail.com](mailto:abhishekanand1164@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tools I Use  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  
+
+### GitHub Activity  
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
