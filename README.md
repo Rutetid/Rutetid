@@ -12,4 +12,4 @@ I like building stuff and sharing code.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  
 
 ### GitHub Activity  
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Rutetid&show_icons=true&theme=dark)  
