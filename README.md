@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3dd40e9d-76a2-46ff-804f-26ba0bd5fe5a" alt="Pixel City Coding" width="100%" height="350px" >
+
 
 ## Hey, I’m Abhishek
 I like building stuff and sharing code.  
