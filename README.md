@@ -6,7 +6,7 @@ I like building stuff and sharing code.
 **FullStack Developer**
 
 - **Focus**: Working with **React** and **TypeScript** to create solid apps.  
-- **Current Project**: [Startup Bihar Portal](https://startupbihar.in/)
+- **Current Project**: [Revlabs](https://revlabs.vercel.app/)
 - **Contact**: [abhishekanand1164@gmail.com](mailto:abhishekanand1164@gmail.com)  
 
 
