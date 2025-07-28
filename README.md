@@ -6,7 +6,7 @@ I like building stuff and sharing code.
 **FullStack Developer**
 
 - **Focus**: Working with **React** and **TypeScript** to create solid apps.  
-- **Current Project**: [Buudha Samyak Portal]([https://revlabs.vercel.app/](https://buddhasamyak.com/))
+- **Current Project**: [Buudha Samyak Portal](https://buddhasamyak.com/)
 - **Contact**: [abhishekanand1164@gmail.com](mailto:abhishekanand1164@gmail.com)  
 
 
