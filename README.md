@@ -6,7 +6,7 @@ I like building stuff and sharing code.
 **FullStack Developer**
 
 - **Focus**: Working with **React** and **TypeScript** to create solid apps.  
-- **Current Project**: [Muzzafarpur Vishan Sabha Election Portal -Govt. of Bihar](https://bihar-election-portal.vercel.app/)
+- **Current Project**: [Buddha Samyak Museum Portal](https://buddhasamyak.bihar.gov.in/)
 - **Contact**: [abhishekanand1164@gmail.com](mailto:abhishekanand1164@gmail.com)  
 
 
