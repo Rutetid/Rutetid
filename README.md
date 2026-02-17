@@ -17,4 +17,5 @@ I like building stuff and sharing code.
 ![vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
 
 ### GitHub Activity  
-![Stats](https://github-readme-stats.vercel.app/api?username=Rutetid&show_icons=true&theme=dark)  
+# ![Stats](https://github-readme-stats.vercel.app/api?username=Rutetid&show_icons=true&theme=dark)  
+[![Dashboard stats of @Rutetid](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=50543186&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=50543186)
