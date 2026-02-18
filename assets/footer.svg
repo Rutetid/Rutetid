@@ -1,0 +1,25 @@
+<svg width="800" height="100" viewBox="0 0 800 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .base { font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace; font-size: 14px; }
+    .path { font-weight: 700; fill: #89b4fa; } /* Blue */
+    .branch { fill: #f5c2e7; } /* Flamingo/Pink */
+    .main { fill: #f38ba8; }
+    .command { fill: #cdd6f4; } /* Text */
+    .arg { fill: #fab387; } /* Peach (Fish command colors) */
+    .cursor { fill: #f5e0dc; }
+  </style>
+
+  <rect width="800" height="100" rx="10" fill="#1e1e2e"/>
+
+  <text x="20" y="55" class="base">
+    <tspan class="path">~/d/github/abhishek </tspan>
+    <tspan class="branch">git:(</tspan><tspan class="main">main</tspan><tspan class="branch">) </tspan>
+    <a href="https://linkedin.com/in/YOUR_USER">
+      <tspan class="command">contact </tspan><tspan class="arg">--socials</tspan>
+    </a>
+  </text>
+
+  <rect x="408" y="43" width="2" height="14" class="cursor">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>

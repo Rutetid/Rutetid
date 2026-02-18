@@ -1,0 +1,28 @@
+<svg width="600" height="250" viewBox="0 0 600 250" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .base { 
+      font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace; 
+      font-size: 14px; 
+      fill: #cdd6f4; 
+    }
+    .gold { fill: #f9e2af; }
+    .blue { fill: #89b4fa; }
+    .green { fill: #a6e3a1; }
+  </style>
+
+  <rect width="600" height="250" rx="15" fill="#1e1e2e" stroke="#313244" stroke-width="2"/>
+
+  <text x="30" y="50" font-family="'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace" font-size="14px" fill="#f9e2af">Welcome to fish, the friendly interactive shell</text>
+  
+  <text x="30" y="90" font-family="'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace" font-size="14px">
+    <tspan fill="#89b4fa">➜ </tspan><tspan fill="#a6e3a1">uptime</tspan><tspan fill="#cdd6f4"> : 3 years as a React Dev</tspan>
+  </text>
+  <text x="30" y="120" font-family="'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace" font-size="14px">
+    <tspan fill="#89b4fa">➜ </tspan><tspan fill="#a6e3a1">status</tspan><tspan fill="#cdd6f4"> : Building in Patna, IN</tspan>
+  </text>
+  <text x="30" y="150" font-family="'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace" font-size="14px">
+    <tspan fill="#89b4fa">➜ </tspan><tspan fill="#a6e3a1">shell </tspan><tspan fill="#cdd6f4"> : fish (the superior choice)</tspan>
+  </text>
+  
+  <text x="450" y="195" font-family="'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace" font-size="40" fill="#89dceb" opacity="0.3">&gt;&lt;((°&gt;</text>
+</svg>

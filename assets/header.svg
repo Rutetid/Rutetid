@@ -1,0 +1,17 @@
+<svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="200" rx="10" fill="#1e1e2e"/>
+  
+  <circle cx="25" cy="20" r="6" fill="#f38ba8"/>
+  <circle cx="45" cy="20" r="6" fill="#f9e2af"/>
+  <circle cx="65" cy="20" r="6" fill="#a6e3a1"/>
+
+  <text x="30" y="60" fill="#89b4fa" font-family="monospace" font-weight="bold" font-size="18">user@arch-machine</text>
+  <text x="30" y="90" fill="#cdd6f4" font-family="monospace" font-size="14">-----------------</text>
+  
+  <text x="30" y="115" fill="#89b4fa" font-family="monospace" font-size="14">OS: <tspan fill="#cdd6f4">Arch Linux</tspan></text>
+  <text x="30" y="135" fill="#89b4fa" font-family="monospace" font-size="14">WM: <tspan fill="#cdd6f4">Hyprland (Mocha)</tspan></text>
+  <text x="30" y="155" fill="#89b4fa" font-family="monospace" font-size="14">Shell: <tspan fill="#cdd6f4">fish</tspan></text>
+  <text x="30" y="175" fill="#89b4fa" font-family="monospace" font-size="14">Focus: <tspan fill="#cdd6f4">Software Dev</tspan></text>
+
+  <path d="M450 50 L500 150 L400 150 Z" fill="#89b4fa" opacity="0.8"/> 
+</svg>

@@ -1,0 +1,31 @@
+<svg width="800" height="40" viewBox="0 0 800 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+  <style>
+    .text { font: bold 13px 'JetBrains Mono', 'Cascadia Code', monospace; fill: #cdd6f4; }
+    .label { fill: #89b4fa; font-weight: 800; }
+    .container { fill: #313244; }
+  </style>
+
+  <rect x="10" y="5" width="160" height="30" rx="15" class="container" />
+  <circle cx="25" cy="20" r="10" fill="#89b4fa" />
+  <text x="21" y="24" fill="#1e1e2e" font-size="14" font-family="monospace" font-weight="bold"></text>
+  <text x="45" y="24" class="text"><tspan class="label">OS </tspan>Arch Linux</text>
+
+  <rect x="180" y="5" width="140" height="30" rx="15" class="container" />
+  <circle cx="200" cy="20" r="5" fill="#a6e3a1" /> <circle cx="225" cy="20" r="5" fill="#585b70" />
+  <circle cx="250" cy="20" r="5" fill="#585b70" />
+  <text x="270" y="24" class="text">hypr</text>
+
+  <rect x="330" y="5" width="220" height="30" rx="15" class="container" />
+  <text x="345" y="24" class="text"><tspan class="label">STACK </tspan>React • Python • TS</text>
+
+  <rect x="560" y="5" width="230" height="30" rx="15" class="container" />
+  <text x="575" y="24" class="text"><tspan class="label">STATUS </tspan>Building Cool Shit</text>
+</svg>
