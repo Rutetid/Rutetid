@@ -9,30 +9,40 @@
   </style>
 
   <rect x="10" y="10" width="250" height="400" rx="15" class="card" />
-  <text x="30" y="45" class="header">01 // ENGINE</text>
-  <text x="30" y="85" class="item">➜ React.js</text>
-  <text x="30" y="115" class="item">➜ TypeScript</text>
-  <text x="30" y="145" class="item">➜ Python</text>
-  <text x="30" y="175" class="item">➜ Next.js</text>
+  <text x="30" y="45" class="header">01 // STACK</text>
+  <text x="30" y="85" class="item" font-weight="bold" font-size="12" font-family="monospace">➜ React.js</text>
+  <text x="30" y="115" class="item" font-weight="bold" font-size="12">➜ TypeScript</text>
+  <text x="30" y="145" class="item" font-weight="bold" font-size="12">➜ Node.js</text>
+  <text x="30" y="175" class="item" font-weight="bold" font-size="12">➜ Tailwind CSS</text>
+  <text x="30" y="205" class="item" font-weight="bold" font-size="12">➜ MCP Servers</text>
+  <text x="30" y="235" class="item" font-weight="bold" font-size="12">➜ Express JS</text>
+
+
   <rect x="30" y="360" width="190" height="4" rx="2" fill="#313244" />
   <rect x="30" y="360" width="150" height="4" rx="2" class="accent-blue" />
 
   <rect x="270" y="10" width="520" height="190" rx="15" class="card" />
-  <text x="290" y="45" class="header">02 // ENVIRONMENT</text>
-  <text x="290" y="85" class="item">OS: Arch Linux</text>
-  <text x="290" y="115" class="item">WM: Hyprland</text>
-  <text x="290" y="145" class="item">Shell: Fish</text>
-  <path d="M720 50 L750 140 L690 140 Z" class="accent-blue" opacity="0.4" />
+  <text x="290" y="45" class="header">02 // STATUS</text>
+  <text x="290" y="85" class="item" font-weight="bold">Getting into AIML</text>
+  <text x="290" y="115" class="item" font-weight="bold">Contributing to Open Source</text>
+  <text x="290" y="145" class="item" font-weight="bold">Ricing my Arch + Hyprland setup</text>
+  <path d="M128 0c-11.39482 27.937051-18.31337 46.237163-31 73.34375 7.7785 8.245207 17.33826 17.811753 32.84375 28.65625-16.66992-6.859577-28.03357-13.728504-36.53125-20.875C77.076039 115.00489 51.621645 163.24639 0 256c40.562707-23.41756 72.007597-37.86167 101.3125-43.375-1.25376-5.40435-1.923505-11.27752-1.875-17.375l.03125-1.28125c.64379-25.99398 14.16934-45.98224 30.1875-44.625 16.01815 1.35723 28.48754 23.53727 27.84375 49.53125-.12127 4.89622-.6905 9.60082-1.65625 13.96875C184.83328 218.51691 215.98162 232.89667 256 256c-7.89193-14.52962-14.96051-27.61983-21.6875-40.09375-10.59609-8.21269-21.64301-18.89743-44.1875-30.46875 15.4958 4.02645 26.60184 8.6825 35.25 13.875C156.97985 71.972668 151.45422 55.040376 128 0z"
+    class="accent-blue"
+    transform="translate(670 56) scale(0.33)" />
 
   <rect x="270" y="210" width="255" height="200" rx="15" class="card" />
   <text x="290" y="245" class="header">03 // TOOLS</text>
-  <text x="290" y="285" class="item">Neovim (LazyVim)</text>
-  <text x="290" y="315" class="item">Tmux</text>
-  <text x="290" y="345" class="item">Git / Docker</text>
+  <text x="290" y="285" class="item" font-weight="bold">Docker</text>
+  <text x="290" y="345" class="item" font-weight="bold">Neovim</text>
+  <text x="290" y="315" class="item" font-weight="bold">Figma</text>
+  <text x="290" y="375" class="item" font-weight="bold">OpenCode</text>
+
 
   <rect x="535" y="210" width="255" height="200" rx="15" class="card" />
-  <text x="555" y="245" class="header">04 // FOCUS</text>
-  <text x="555" y="285" class="item">Performance Opt.</text>
-  <text x="555" y="315" class="item">Frontend Arch.</text>
-  <text x="555" y="345" class="item" fill="#a6e3a1">● Active</text>
+  <text x="555" y="245" class="header">04 // SYSTEM</text>
+  <text x="555" y="285" class="item" font-weight="bold">OS: Arch Linux</text>
+  <text x="555" y="315" class="item" font-weight="bold">WM: Hyprland</text>
+  <text x="555" y="345" class="item" fill="#a6e3a1">Shell: Fish</text>
+  <text x="555" y="375" class="item" fill="#a6e3a1">Terminal: Kitty</text>
+
 </svg>
