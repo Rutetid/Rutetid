@@ -1,7 +1,7 @@
 <!-- ![Header](./assets/header.svg) -->
 <!-- ![StatusBar](./assets/statusbar.svg) -->
 
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
   <img src="./assets/statusbar.svg" alt="Waybar Status" width="800" />
 </div>
 
