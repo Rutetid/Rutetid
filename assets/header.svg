@@ -11,8 +11,8 @@
   <text x="30" y="100" fill="#cdd6f4" font-family="monospace" font-size="14">---------------------------</text>
   
   <text x="30" y="125" fill="#89b4fa" font-family="monospace" font-weight="bold" font-size="12">Focus: <tspan fill="#cdd6f4">Fullstack Developer</tspan></text>
-  <text x="30" y="145" fill="#89b4fa" font-family="monospace" font-weight="bold" font-size="12">Current Project: <a xlink:href="https://buddhasamyak.bihar.gov.in/" href="https://buddhasamyak.bihar.gov.in/" target="_blank"><tspan fill="#cdd6f4" text-decoration="underline">Buddha Samyak Museum Portal</tspan></a></text>
-  <text x="30" y="165" fill="#89b4fa" font-family="monospace" font-weight="bold" font-size="12">Contact: <a xlink:href="mailto:abhishekanand1164@gmail.com" href="mailto:abhishekanand1164@gmail.com" target="_blank"><tspan fill="#cdd6f4" text-decoration="underline">abhishekanand1164@gmail.com</tspan></a></text>
+  <text x="30" y="145" fill="#89b4fa" font-family="monospace" font-weight="bold" font-size="12">Current Project: <a xlink:href="https://buddhasamyak.bihar.gov.in/" href="https://buddhasamyak.bihar.gov.in/" target="_blank"><tspan fill="#cdd6f4" >Buddha Samyak Museum Portal</tspan></a></text>
+  <text x="30" y="165" fill="#89b4fa" font-family="monospace" font-weight="bold" font-size="12">Contact: <a xlink:href="mailto:abhishekanand1164@gmail.com" href="mailto:abhishekanand1164@gmail.com" target="_blank"><tspan fill="#cdd6f4" >abhishekanand1164@gmail.com</tspan></a></text>
 
   <!-- <path d="M500 50 L550 150 L450 150 Z" fill="#89b4fa" opacity="0.8"/>  -->
 <rect x="417" y="27" width="141" height="141" rx="70.5" fill="url(#pattern0_2001_3)"/>
